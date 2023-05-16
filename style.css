@@ -102,9 +102,6 @@ li {
 	/* padding-bottom: 1rem; */
 }
 
-.faq__list {
-}
-
 .faq__item {
 	border-bottom: 1px solid var(--divider);
 	padding-block: 1rem;
